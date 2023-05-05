@@ -12,6 +12,8 @@ I am a recent graduate of Pursuit, an intensive 12-month software engineering fe
 ### LeetCode stats
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=isidromolina&theme=leafy)
 
+[![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
+
 ### Connect with me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isidro-molina-b20497215/)
 
