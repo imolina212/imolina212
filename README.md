@@ -9,7 +9,7 @@ I am a recent graduate of Pursuit, an intensive 12-month software engineering fe
 [![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imolina212&theme=merko)](https://github.com/imolina212/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imolina212&theme=merko&layout=compact)](https://github.com/imolina212)
 
-### LeetCode stats
+### LeetCode/Codewars stats & badges
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=isidromolina&theme=leafy)
 
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
