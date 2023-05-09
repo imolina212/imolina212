@@ -12,11 +12,13 @@ I am a recent graduate of Pursuit, an intensive 12-month software engineering fe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imolina212&theme=merko&layout=compact)](https://github.com/imolina212)
 
 ### LeetCode/Codewars stats & badges
+[![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isidromolina?ext=heatmap)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=isidromolina&theme=leafy)
 
 
-[![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
+
 
 
 <!--
